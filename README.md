@@ -65,10 +65,11 @@ _Java application with Hibernate & JPA for Users, Pets, Orders._
 ---
 
 ## 🎓 Certifications  
-- 🏆 *ChatGPT for Everyone* – 13 Aug 2023  
-- 🏆 *AI for India 2.0* – 15 Aug 2023  
-- 🏆 *Python Bootcamp (Zero to Hero)* – 2 Oct 2023  
-- 🏆 *Internship/Industrial Project Certificate* – 8 May 2024  
+- 🏆 *ChatGPT for Everyone* 
+- 🏆 *AI for India 2.0*
+- 🏆 *Python Bootcamp (Zero to Hero)* 
+- 🏆 *Full Stack Java* – Symbiosis Skills & Professional Skills Training 
+- 🏆 *Programming with GoLang Workshop* 
 
 ---
 
