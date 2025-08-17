@@ -39,27 +39,23 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
 ## 📌 Projects  
 
-🔹 **Roomie – Roommate Finder App**  
-_Full-stack project with React, Node.js, PostgreSQL, and Google Maps integration._  
+🔹 **Artificial Intelligence-Based Real-Time Human Detection System**  
+_Designed a real-time system leveraging YOLOv8n for precise person detection 
+with multi-zone monitoring, varying alert levels (red, orange, green), and secure alert 
+archiving. Integrated audio alerts for immediate notifications and used PostgreSQL for secure 
+data storage._  
 
 🔹 **Task Management System**  
 _Built with Spring Boot, Hibernate, JPA, Angular, and MySQL._  
 
 🔹 **Pet Store CRUD**  
 _Java application with Hibernate & JPA for Users, Pets, Orders._  
-
-🔹 **Human Intrusion Detection System**  
-_Implemented with YOLO object detection for security applications._  
-
-🔹 **ERP Data Handling (OJT Project)**  
-_Real-world project: Extracted data from ERP systems and automated upload to portals._  
 
 ---
 
@@ -68,16 +64,6 @@ _Real-world project: Extracted data from ERP systems and automated upload to por
 - 🏆 *AI for India 2.0* – 15 Aug 2023  
 - 🏆 *Python Bootcamp (Zero to Hero)* – 2 Oct 2023  
 - 🏆 *Internship/Industrial Project Certificate* – 8 May 2024  
-
----
-
-## 📊 GitHub Stats  
-
-![Bhakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhakti-sutar&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhakti-sutar&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhakti-sutar&theme=tokyonight)  
 
 ---
 
