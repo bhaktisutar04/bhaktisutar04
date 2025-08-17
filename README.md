@@ -80,4 +80,10 @@ _Java application with Hibernate & JPA for Users, Pets, Orders._
 
 ---
 
+## 📄 Resume
+You can view/download my resume here:  
+[![Resume](https://img.shields.io/badge/View-Resume-blue)](./Bhakti_Sutar_Resume.pdf)
+
+---
+
 ✨ *“Let’s Connect and Grow Together in the Tech World.”* ✨  
