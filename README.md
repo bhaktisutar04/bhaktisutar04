@@ -73,16 +73,16 @@ _Java application with Hibernate & JPA for Users, Pets, Orders._
 
 ---
 
+## 📄 Resume
+You can view/download my resume here:  
+[![Resume](https://img.shields.io/badge/View-Resume-blue)](./Bhakti_Sutar_Resume.pdf)
+
+---
+
 ## 📫 Connect with Me  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/bhakti-sutar-707330286)  
 📧 Email: *sutarbhakti2004@gmail.com*  
-
----
-
-## 📄 Resume
-You can view/download my resume here:  
-[![Resume](https://img.shields.io/badge/View-Resume-blue)](./Bhakti_Sutar_Resume.pdf)
 
 ---
 
